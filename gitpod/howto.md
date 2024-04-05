@@ -6,10 +6,10 @@
 
 * レポジトリの例：
   * 2024年プログラミング演習I 用レポジトリ([https://github.com/mzk-komatsu/KobeUniProenshu_1_2024](https://github.com/mzk-komatsu/KobeUniProenshu_1_2024))
-  * 2020年プログラミング演習３用レポジトリ([https://github.com/KobeUCSEnshu/progprac3_2020](https://github.com/KobeUCSEnshu/progprac3_2020))
+  
 * github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。
   * つまり、2024年プログラミング演習Iの場合 [https://gitpod.io/#https://github.com/mzk-komatsu/KobeUniProenshu_1_2024](https://gitpod.io/#https://github.com/mzk-komatsu/KobeUniProenshu_1_2024) をクリックするだけで OK です。
-  * 各演習用 workspace setup links: [応用アルゴリズム演習](https://gitpod.io/#https://github.com/tomiokamada/advAlgoSamples)、[演習３](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac3_2020)
+  
 * セットアップには、少し時間がかかります。
 
 上記で、workspaceが作成されます。原則、`初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
