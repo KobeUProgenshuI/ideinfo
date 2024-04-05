@@ -1,0 +1,21 @@
+toc:
+  - title: Gitpod
+    subfolderitems:
+      - page: 簡単な紹介
+        url: /ideinfo/gitpod/intro.html
+      - page: アカウント準備
+        url: /ideinfo/gitpod/account.html
+      - page: 簡単な利用法（C言語）
+        url: /ideinfo/gitpod/howto.html
+      - page: コンパイル＆実行
+        url: /ideinfo/gitpod/compile.html
+  - title: VS code
+    subfolderitems:
+      - page: C環境の使い方
+        url: /ideinfo/vsc/C.html
+      - page: セットアップ（演習室）
+        url: /ideinfo/vsc/eroom.html
+      - page: セットアップ（自宅環境）
+        url: /ideinfo/vsc/Csetup.html
+      - page: デバッガの使い方(C言語)
+        url: /ideinfo/vsc/Cdebug.html

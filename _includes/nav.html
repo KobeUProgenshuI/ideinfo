@@ -1,0 +1,13 @@
+<div class="mapbar">
+   <a href="/ideinfo/index.html">Top</a>
+{% for item in site.data.navigation.toc %}
+  <div class="submap">
+    <button class="submapbtn"> {{ item.title }} <i class="fa fa-caret-down"></i></button>
+    <div class="submap-content">
+      {% for entry in item.subfolderitems %}
+      <a href="{{ entry.url }}">{{ entry.page }}</a>
+        {% endfor %}
+    </div>
+  </div> 
+  {% endfor %}
+</div>
