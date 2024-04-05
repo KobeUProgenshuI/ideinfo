@@ -8,7 +8,7 @@
   * 2024年プログラミング演習I 用レポジトリ([https://github.com/KobeUProgenshuI/ProgenshuI_2024](https://github.com/KobeUProgenshuI/ProgenshuI_2024))
   
 * github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。
-  * つまり、2024年プログラミング演習Iの場合 [https://github.com/KobeUProgenshuI/ProgenshuI_2024](https://github.com/KobeUProgenshuI/ProgenshuI_2024) をクリックするだけで OK です。
+  * つまり、2024年プログラミング演習Iの場合 [https://gitpod.io/#https://github.com/KobeUProgenshuI/ProgenshuI_2024](https://gitpod.io/#https://github.com/KobeUProgenshuI/ProgenshuI_2024) をクリックするだけで OK です。
   
 * セットアップには、少し時間がかかります。
 
