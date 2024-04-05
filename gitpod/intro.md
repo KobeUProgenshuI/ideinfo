@@ -14,6 +14,6 @@ Browser 上の統合開発環境から操作できるようになっています
 皆さんが自宅プログラミング環境を整えなくても、
 gitpod 上でプログラミング演習（Unix command, File I/O 操作含む）ができるようにする予定です。
 -->
-[2023年度のプログラミング演習I](https://sites.google.com/view/csprog2023/)では、ベースになるプログラムやデータを課題レポジトリ(@github)に配置し、
+[2024年度のプログラミング演習I](https://sites.google.com/view/csprog2024/)では、ベースになるプログラムやデータを課題レポジトリ(@github)に配置し、
 皆さんが自宅プログラミング環境を整えなくても、
 gitpod 上でプログラミング演習（Unix command, File I/O 操作含む）ができるようにする予定です。
