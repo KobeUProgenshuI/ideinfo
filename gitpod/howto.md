@@ -5,10 +5,10 @@
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。原則`初回に１度おこなうだけで十分`です。
 
 * レポジトリの例：
-  * 2024年プログラミング演習I 用レポジトリ([https://github.com/mzk-komatsu/KobeUniProenshu_1_2024](https://github.com/mzk-komatsu/KobeUniProenshu_1_2024))
+  * 2024年プログラミング演習I 用レポジトリ([https://github.com/KobeUProgenshuI/ProgenshuI_2024](https://github.com/KobeUProgenshuI/ProgenshuI_2024))
   
 * github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。
-  * つまり、2024年プログラミング演習Iの場合 [https://gitpod.io/#https://github.com/mzk-komatsu/KobeUniProenshu_1_2024](https://gitpod.io/#https://github.com/mzk-komatsu/KobeUniProenshu_1_2024) をクリックするだけで OK です。
+  * つまり、2024年プログラミング演習Iの場合 [https://github.com/KobeUProgenshuI/ProgenshuI_2024](https://github.com/KobeUProgenshuI/ProgenshuI_2024) をクリックするだけで OK です。
   
 * セットアップには、少し時間がかかります。
 
